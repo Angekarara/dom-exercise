@@ -35,11 +35,6 @@ const quotes = [
     person: "Philip Mona",
   },
   {
-    quote:
-      "Try not to become a man of success, but rather try to become a man of value.",
-    person: "Abijuru Ariane",
-  },
-  {
     quote: "You will never do anything in this world without courage.",
     person: "Montana",
   },
