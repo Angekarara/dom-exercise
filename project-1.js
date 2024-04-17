@@ -35,10 +35,6 @@ const quotes = [
     person: "Philip Mona",
   },
   {
-    quote: "You will never do anything in this world without courage.",
-    person: "Montana",
-  },
-  {
     quote:
       "We cannot solve our problems with the same thinking we used when we created them.",
     person: "Ivy Murage",
