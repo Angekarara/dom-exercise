@@ -6,7 +6,7 @@ let person = document.querySelector(".person");
 
 const quotes = [
   {
-    qoute:
+    quote:
       "the best way to find yourself is to lose yourself in the service of others.",
     person: "Mahatma Gandhi",
   },
